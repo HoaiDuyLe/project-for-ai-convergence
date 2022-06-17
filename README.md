@@ -1,17 +1,7 @@
 # Mixed supervision for surface-defect detection: from weakly to fully supervised learning [Computers in Industry 2021]
 Modification of the official PyTorch implementation for ["Mixed supervision for surface-defect detection: from weakly to fully supervised learning"](http://prints.vicos.si/publications/385) published in journal Computers in Industry 2021.
 
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
-
 Code and the dataset are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. For comerical use please contact danijel.skocaj@fri.uni-lj.si.
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
 
 ## Citation
 Please cite our [Computers in Industry 2021 paper](http://prints.vicos.si/publications/385) when using this code:
