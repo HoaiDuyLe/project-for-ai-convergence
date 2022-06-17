@@ -3,19 +3,6 @@ Modification of the official PyTorch implementation for ["Mixed supervision for 
 
 Code and the dataset are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. For comerical use please contact danijel.skocaj@fri.uni-lj.si.
 
-## Citation
-Please cite our [Computers in Industry 2021 paper](http://prints.vicos.si/publications/385) when using this code:
-
-```
-@article{Bozic2021COMIND,
-  author = {Bo{\v{z}}i{\v{c}}, Jakob and Tabernik, Domen and 
-  Sko{\v{c}}aj, Danijel},
-  journal = {Computers in Industry},
-  title = {{Mixed supervision for surface-defect detection: from weakly to fully supervised learning}},
-  year = {2021}
-}
-```
-
 ## How to run:
 
 ### Requirements
